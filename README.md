@@ -1,5 +1,5 @@
 
-# XSSpy - Advanced XSS Detection Tool
+# XSSZypheron - Advanced XSS Detection Tool
 
 <img width="1253" height="654" alt="xss" src="https://github.com/user-attachments/assets/0e80e7b6-9457-4445-bb0f-395dd7833b49" />
 

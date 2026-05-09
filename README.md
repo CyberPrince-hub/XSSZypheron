@@ -1,7 +1,8 @@
 
 # XSSpy - Advanced XSS Detection Tool
 
-<img width="1130" height="493" alt="tool2" src="https://github.com/user-attachments/assets/d47c0409-2619-4619-9b20-8bef252fd950" />
+<img width="1253" height="654" alt="xss" src="https://github.com/user-attachments/assets/0e80e7b6-9457-4445-bb0f-395dd7833b49" />
+
 
 
 
@@ -16,7 +17,7 @@ A simple, fast and efficient XSS vulnerability scanner for security researchers 
 - 📊 **Detailed Reporting**
 - 🔧 **Easy to Use**
 
-<img width="1090" height="487" alt="tool" src="https://github.com/user-attachments/assets/18eb4d9e-d9ed-4c90-986c-df63b401bfac" />
+
 
 ## Installation
 
@@ -24,4 +25,7 @@ A simple, fast and efficient XSS vulnerability scanner for security researchers 
 git clone https://github.com/CyberPrince-hub/XSSpy.git
 cd XSSpy
 pip install -r requirements.txt
+```
+<img width="1053" height="642" alt="xss2" src="https://github.com/user-attachments/assets/d6d2de22-af11-45f7-9994-01528e9de753" />
+
 

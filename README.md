@@ -1,7 +1,7 @@
 # XSSZypheron - Advanced XSS Detection Tool
 A simple, fast and efficient XSS vulnerability scanner for security researchers and penetration testers.
 
-<img width="1253" height="654" alt="xss" src="https://github.com/user-attachments/assets/ded47876-b690-48c5-9b8c-7a750f6566b2" />
+<img width="1253" height="654" alt="xss" src="https://github.com/user-attachments/assets/eea5484a-ae73-4d15-aa10-35d669ccc786" />
 
 
 ## Features
@@ -21,7 +21,7 @@ cd XSSpy
 pip install -r requirements.txt
 ```
 
-<img width="1053" height="642" alt="xss2" src="https://github.com/user-attachments/assets/e28b901e-3ad4-483b-a6bf-5d611e496196" />
+<img width="1053" height="642" alt="xss2" src="https://github.com/user-attachments/assets/ad1d450e-3629-4f4f-9579-e996ef09a9b4" />
 
 
 ## 🚀 Usage

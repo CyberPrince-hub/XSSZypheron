@@ -16,7 +16,7 @@ A simple, fast and efficient XSS vulnerability scanner for security researchers 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/CyberPrince-hub/XSSpy.git
+git clone https://github.com/CyberPrince-hub/XSSZypheron.git
 cd XSSpy
 pip install -r requirements.txt
 ```
@@ -29,37 +29,37 @@ pip install -r requirements.txt
 ### Scan a Single URL
 
 ```bash
-python xsspy.py -u "https://example.com/search?q=test"
+python XSSZypheron.py -u "https://example.com/search?q=test"
 ```
 
 ### Scan Multiple URLs
 
 ```bash
-python xsspy.py -f urls.txt
+python XSSZypheron.py -f urls.txt
 ```
 
 ### Use Custom Payloads
 
 ```bash
-python xsspy.py -u "https://example.com/search?q=test" -p payloads.txt
+python XSSZypheron.py -u "https://example.com/search?q=test" -p payloads.txt
 ```
 
 ### Save Results
 
 ```bash
-python xsspy.py -u "https://example.com/search?q=test" -o results.txt
+python XSSZypheron.py -u "https://example.com/search?q=test" -o results.txt
 ```
 
 ### Show Help
 
 ```bash
-python xsspy.py -h
+python XSSZypheron.py -h
 ```
 
 ## 📌 Example
 
 ```bash
-python xsspy.py -u "https://testphp.vulnweb.com/listproducts.php?cat=1"
+python XSSZypheron.py -u "https://testphp.vulnweb.com/listproducts.php?cat=1"
 ```
 
 ## ⚙️ Command-Line Options
